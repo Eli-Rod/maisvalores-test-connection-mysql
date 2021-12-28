@@ -1,0 +1,8 @@
+# Files ignored
+
+# Node Artifact Files
+node_modules/
+
+.env
+.editorconfig
+*.log
